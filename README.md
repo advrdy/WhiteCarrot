@@ -51,8 +51,13 @@ npm run dev
 The application will be available at http://localhost:5173.
 
 ## Screenshot
+Once Signed in:
 Displays the list of events, the first name of the logged-in user, a delete action for each event, a button to create a new event, and a sign-out option. Clicking on an event shows detailed information about its description and timings.
 
+### Sign In Page
+![0](https://github.com/user-attachments/assets/f838dad8-93a6-4f38-a534-0e5acff93004)
+
+### Home Page
 ![1](https://github.com/user-attachments/assets/1edb617c-49f1-4413-a7dd-0166c353005e)
 
 ### Creating an Event
