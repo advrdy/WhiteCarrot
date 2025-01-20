@@ -49,3 +49,14 @@ Add the required **OAuth credentials** in Supabase to enable Google Sign-In.
 npm run dev
 ```
 The application will be available at http://localhost:5173.
+
+## Screenshot
+Displays the list of events, the first name of the logged-in user, a delete action for each event, a button to create a new event, and a sign-out option. Clicking on an event shows detailed information about its description and timings.
+
+![1](https://github.com/user-attachments/assets/1edb617c-49f1-4413-a7dd-0166c353005e)
+
+**Creating an Event**
+![2](https://github.com/user-attachments/assets/4ab16e95-cd35-4b21-8a9e-4d20dda71b6c)
+
+**Filtered Events**
+![3](https://github.com/user-attachments/assets/6d03c6c2-1d70-4ace-8d89-136416278cfe)
