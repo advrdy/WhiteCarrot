@@ -3,6 +3,19 @@
 
 A web application to manage Google Calendar events. Users can view, create, filter, and delete events from their Google Calendar. Built with React, Supabase for authentication, and Tailwind CSS for styling.
 
+## Features
+- **Google Sign-In**: Authenticate with your Google account using Supabase.
+- **View Events**: Display a list of events from your Google Calendar.
+- **Create Events**: Add new events with start and end dates, names, and descriptions.
+- **Filter Events**: Filter events based on specific dates.
+- **Delete Events**: Remove events directly from your Google Calendar.
+
+## Tech Stack
+- **Frontend**: React, Tailwind CSS
+- **Authentication**: Supabase
+- **API**: Google Calendar API
+- **State Management**: React Hooks
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
@@ -36,16 +49,3 @@ Add the required **OAuth credentials** in Supabase to enable Google Sign-In.
 npm run dev
 ```
 The application will be available at http://localhost:5173.
-
-## Features
-- **Google Sign-In**: Authenticate with your Google account using Supabase.
-- **View Events**: Display a list of events from your Google Calendar.
-- **Create Events**: Add new events with start and end dates, names, and descriptions.
-- **Filter Events**: Filter events based on specific dates.
-- **Delete Events**: Remove events directly from your Google Calendar.
-
-## Tech Stack
-- **Frontend**: React, Tailwind CSS
-- **Authentication**: Supabase
-- **API**: Google Calendar API
-- **State Management**: React Hooks
