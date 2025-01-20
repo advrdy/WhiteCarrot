@@ -19,9 +19,9 @@ npm install
 ### 3. Set Up Environment Variables
 Create a .env file in the root of the project and add the following variables:
 
-REACT_APP_SUPABASE_URL=your-supabase-url
+VITE_SUPABASE_URL=your-supabase-url
 
-REACT_APP_SUPABASE_ANON_KEY=your-supabase-anon-key
+VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 
 Replace your-supabase-url with your Supabase project URL.
 Replace your-supabase-anon-key with your Supabase anonymous key.
