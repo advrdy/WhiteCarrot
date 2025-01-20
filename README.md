@@ -20,6 +20,7 @@ npm install
 Create a .env file in the root of the project and add the following variables:
 
 **VITE_SUPABASE_URL=your-supabase-url**
+
 **VITE_SUPABASE_ANON_KEY=your-supabase-anon-key**
 
 Replace your-supabase-url with your Supabase project URL.
