@@ -50,5 +50,3 @@ The application will be available at http://localhost:5173.
 - **Authentication**: Supabase
 - **API**: Google Calendar API
 - **State Management**: React Hooks
-- **Styling**: Tailwind CSS
-- **Date & Time Pickers**: `react-datetime-picker`
