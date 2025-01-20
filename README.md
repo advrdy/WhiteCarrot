@@ -19,6 +19,7 @@ yarn install
 
 ### 3. Set Up Environment Variables
 Create a .env file in the root of the project and add the following variables:
+
 REACT_APP_SUPABASE_URL=your-supabase-url
 REACT_APP_SUPABASE_ANON_KEY=your-supabase-anon-key
 
