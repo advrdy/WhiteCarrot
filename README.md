@@ -34,7 +34,7 @@ Add the required **OAuth credentials** in Supabase to enable Google Sign-In.
 
 ### 5. Start the Development Server
 ```bash
-npm start
+npm run dev
 # or
 yarn start
 ```
