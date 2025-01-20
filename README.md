@@ -13,8 +13,6 @@ cd google-calendar-events-manager
 ### 2. Install Dependencies
 ```bash
 npm install
-# or
-yarn install
 ```
 
 ### 3. Set Up Environment Variables
@@ -35,8 +33,6 @@ Add the required **OAuth credentials** in Supabase to enable Google Sign-In.
 ### 5. Start the Development Server
 ```bash
 npm run dev
-# or
-yarn start
 ```
 The application will be available at http://localhost:5173.
 
