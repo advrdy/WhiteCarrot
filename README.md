@@ -1,4 +1,5 @@
 # Google Calendar Events Manager
+## Deployed Link: https://white-carrot.vercel.app/
 
 A web application to manage Google Calendar events. Users can view, create, filter, and delete events from their Google Calendar. Built with React, Supabase for authentication, and Tailwind CSS for styling.
 
