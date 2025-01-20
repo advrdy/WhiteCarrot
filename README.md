@@ -43,7 +43,6 @@ The application will be available at http://localhost:5173.
 - **Create Events**: Add new events with start and end dates, names, and descriptions.
 - **Filter Events**: Filter events based on specific dates.
 - **Delete Events**: Remove events directly from your Google Calendar.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Tech Stack
 - **Frontend**: React, Tailwind CSS
